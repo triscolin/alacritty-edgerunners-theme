@@ -1,0 +1,36 @@
+# (Github Dark High Contrast) Colors for Alacritty
+
+colors:
+  # Default colors
+  primary:
+    background: '0x000000'
+    foreground: '0xFDF500'
+
+  # Cursor colors
+  #
+  # These will only be used when the `custom_cursor_colors` field is set to `true`.
+  cursor:
+    text: '0xFADA16'
+    cursor: '0xFADA16'
+
+  # Normal colors
+  normal:
+    black: '0x7a828e'
+    red: '0xec0101'
+    green: '0x26cd4d'
+    yellow: '0xFFD500'
+    blue: '0xff9492'
+    magenta: '0xcb9eff'
+    cyan: '0xffd500'
+    white: '0xd9dee3'
+
+  # Bright colors
+  bright:
+    black: '0x9ea7b3'
+    red: '0xffb1af'
+    green: '0x4ae168'
+    yellow: '0xf7c843'
+    blue: '0x91cbff'
+    magenta: '0xcb9eff'
+    cyan: '0x39c5cf'
+    white: '0xd9dee3'
