@@ -7,8 +7,6 @@ colors:
     foreground: '0xFDF500'
 
   # Cursor colors
-  #
-  # These will only be used when the `custom_cursor_colors` field is set to `true`.
   cursor:
     text: '0xFADA16'
     cursor: '0xFADA16'
